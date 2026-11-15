@@ -17,16 +17,6 @@ I build software from the bottom of the stack up. At **42** I write C with no st
 - **Interested in:** systems programming, Linux internals, offline-first and low-bandwidth software
 - **Principles:** small dependencies, measurable behaviour, code someone else can read
 
-### Featured work
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**Zero Bars**](https://github.com/Blitz-adali/zero-bars) · [live](https://blitz-adali.github.io/zero-bars/) | Offline-first coding course in ~130 KB. Sandboxed JS runner in a Web Worker, hand-written QR encoder for sharing challenges phone-to-phone, EN/ES/AR with RTL. | JavaScript, PWA, Service Worker |
-| [**Libft**](https://github.com/Blitz-adali/Libft) | A static C library re-implementing libc string, memory and conversion routines plus a singly linked list API. | C, Make |
-| [**ft_printf**](https://github.com/Blitz-adali/Printf) | `printf` from scratch: variadic argument handling, format parsing, decimal/hex/pointer conversion over raw `write(2)`. | C, Make |
-| [**get_next_line**](https://github.com/Blitz-adali/get_next_line) | Line-by-line reader over any file descriptor with a static carry-over buffer and configurable `BUFFER_SIZE`. | C |
-| [**Born2beRoot**](https://github.com/Blitz-adali/Born2beRoot) | Hardened Debian VM: encrypted LVM, UFW, SSH on a custom port, strict sudo and password policy, cron-driven monitoring script. | Linux, Bash |
-
 ### Toolbox
 
 **Languages**  
