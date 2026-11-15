@@ -45,7 +45,7 @@
       <text x="20" y="72" class="line l1"><tspan fill="#38bdf8">$</tspan><tspan fill="#e5e7eb"> cat stack.txt</tspan></text>
       <text x="20" y="98" class="line l2" fill="#a5b4fc">C · Python · JavaScript · Shell</text>
       <text x="20" y="130" class="line l3"><tspan fill="#38bdf8">$</tspan><tspan fill="#e5e7eb"> cat focus.txt</tspan></text>
-      <text x="20" y="156" class="line l4" fill="#a5b4fc">low-level C · offline-first apps</text>
+      <text x="20" y="156" class="line l4" fill="#a5b4fc">systems · networks · AI agents</text>
       <text x="20" y="188" class="line l4"><tspan fill="#38bdf8">$</tspan><tspan class="cursor" fill="#e5e7eb"> ▍</tspan></text>
     </g>
   </g>
