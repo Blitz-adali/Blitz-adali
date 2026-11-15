@@ -5,13 +5,13 @@
 
 <p align="center">
   <a href="https://blitz-adali.github.io/zero-bars/"><img src="https://img.shields.io/badge/Live_project-Zero_Bars-38bdf8?style=flat-square" alt="Zero Bars"></a>
-  <img src="https://img.shields.io/badge/42-Irbid-0f172a?style=flat-square" alt="42 Irbid">
+  <img src="https://img.shields.io/badge/42-Network-0f172a?style=flat-square" alt="42">
   <img src="https://img.shields.io/badge/Based_in-Jordan-a78bfa?style=flat-square" alt="Jordan">
 </p>
 
 ### About
 
-I build software from the bottom of the stack up. At **42 Irbid** I write C with no standard library to lean on: my own `printf`, a buffered line reader, a sorting engine with an operation budget, and a hardened Debian server. Outside the curriculum I ship small, fast web apps that keep working when the network doesn't.
+I build software from the bottom of the stack up. At **42** I write C with no standard library to lean on: my own `printf`, a buffered line reader, a sorting engine with an operation budget, and a hardened Debian server. Outside the curriculum I ship small, fast web apps that keep working when the network doesn't.
 
 - **Now:** shipping hackathon builds and working through the 42 core curriculum
 - **Interested in:** systems programming, Linux internals, offline-first and low-bandwidth software

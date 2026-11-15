@@ -32,7 +32,7 @@
   <text x="64" y="118" class="sans" font-size="56" font-weight="700" fill="#f9fafb">Raad Ali</text>
   <rect x="64" y="138" width="120" height="4" rx="2" fill="url(#accent)"/>
   <text x="64" y="184" class="sans" font-size="22" fill="#9ca3af">Software engineer · systems, Linux &amp; the web</text>
-  <text x="64" y="218" class="mono" font-size="16" fill="#6b7280">42 Irbid · Jordan</text>
+  <text x="64" y="218" class="mono" font-size="16" fill="#6b7280">42 Network · Jordan</text>
 
   <g transform="translate(680 56)">
     <rect width="456" height="208" rx="12" fill="#0d1117" stroke="#30363d"/>
