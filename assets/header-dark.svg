@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Raad Ali — Software Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0f17"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1f2937" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .mono{font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace}
+      .sans{font-family:Inter,'Segoe UI',Helvetica,Arial,sans-serif}
+      .line{opacity:0;animation:in .4s ease forwards}
+      .l1{animation-delay:.3s}.l2{animation-delay:.9s}.l3{animation-delay:1.5s}.l4{animation-delay:2.1s}
+      .cursor{animation:blink 1s steps(1) infinite}
+      @keyframes in{to{opacity:1}}
+      @keyframes blink{50%{opacity:0}}
+    </style>
+  </defs>
+  <rect width="1200" height="320" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="16" fill="url(#grid)" opacity="0.6"/>
+  <rect width="1200" height="320" rx="16" fill="url(#glow)"/>
+
+  <text x="64" y="118" class="sans" font-size="56" font-weight="700" fill="#f9fafb">Raad Ali</text>
+  <rect x="64" y="138" width="120" height="4" rx="2" fill="url(#accent)"/>
+  <text x="64" y="184" class="sans" font-size="22" fill="#9ca3af">Software engineer · systems, Linux &amp; the web</text>
+  <text x="64" y="218" class="mono" font-size="16" fill="#6b7280">42 Irbid · Jordan</text>
+
+  <g transform="translate(680 56)">
+    <rect width="456" height="208" rx="12" fill="#0d1117" stroke="#30363d"/>
+    <circle cx="22" cy="20" r="6" fill="#ff5f56"/>
+    <circle cx="42" cy="20" r="6" fill="#ffbd2e"/>
+    <circle cx="62" cy="20" r="6" fill="#27c93f"/>
+    <text x="228" y="25" text-anchor="middle" class="mono" font-size="12" fill="#6b7280">~/raad</text>
+    <line x1="0" y1="40" x2="456" y2="40" stroke="#21262d"/>
+    <g class="mono" font-size="15">
+      <text x="20" y="72" class="line l1"><tspan fill="#38bdf8">$</tspan><tspan fill="#e5e7eb"> cat stack.txt</tspan></text>
+      <text x="20" y="98" class="line l2" fill="#a5b4fc">C · Python · JavaScript · Shell</text>
+      <text x="20" y="130" class="line l3"><tspan fill="#38bdf8">$</tspan><tspan fill="#e5e7eb"> cat focus.txt</tspan></text>
+      <text x="20" y="156" class="line l4" fill="#a5b4fc">low-level C · offline-first apps</text>
+      <text x="20" y="188" class="line l4"><tspan fill="#38bdf8">$</tspan><tspan class="cursor" fill="#e5e7eb"> ▍</tspan></text>
+    </g>
+  </g>
+</svg>
