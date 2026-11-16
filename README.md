@@ -4,7 +4,6 @@
 </picture>
 
 <p align="center">
-  <a href="https://blitz-adali.github.io/zero-bars/"><img src="https://img.shields.io/badge/Live_project-Zero_Bars-38bdf8?style=flat-square" alt="Zero Bars"></a>
   <img src="https://img.shields.io/badge/42-Network-0f172a?style=flat-square" alt="42">
   <img src="https://img.shields.io/badge/Based_in-Jordan-a78bfa?style=flat-square" alt="Jordan">
 </p>
